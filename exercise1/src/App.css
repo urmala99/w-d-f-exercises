@@ -1,0 +1,10 @@
+.backGround{
+  background-color: rgb(233, 233, 233);
+}
+.sideBySide{
+  width: 80%;
+  grid-template-columns: 1025px 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+}

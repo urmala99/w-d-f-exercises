@@ -1,0 +1,85 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Acer 23,6 KG241QS",
+        "type": "165Hz (OC) Full HD -pelimonitori",
+        "color": "musta/punainen",
+        "price": 169.00,
+        "rating": 4.4,
+        "image": "image1.png"
+        
+      },
+      {
+        "id": 2,
+        "name": "Samsung 32 Odyssey G5",
+        "type": "144Hz kaareva WQHD-pelimonitori",
+        "color": "musta",
+        "price": 299.00,
+        "rating": 4.2,
+        "image": "image2.png"
+        
+      },
+      {
+        "id": 3,
+        "name": "BenQ 24 ZOWIE XL2411P",
+        "type": "144Hz e-Sports -monitori",
+        "color": "musta",
+        "price": 199.00,
+        "rating": 4.6,
+        "image": "image3.png"
+       
+      },
+      {
+        "id": 4,
+        "name": "Samsung 24 LF24T352FHUXEN",
+        "type": "Full HD -monitori",
+        "color": "Dark Blue Gray",
+        "price": 99.00,
+        "rating": 3.7,
+        "image": "image4.png"
+       
+      },
+      {
+        "id": 5,
+        "name": "Acer 27 Nitro VG270UPbmiipx",
+        "type": "144Hz WQHD -pelimonitori",
+        "color": "musta",
+        "price": 349.00,
+        "rating": 4.1,
+        "image": "img5.png"
+        
+      },
+      {
+        "id": 6,
+        "name": "Asus 27 TUF Gaming VG27AQ",
+        "type": "165Hz (OC) WQHD -pelimonitori",
+        "color": "musta",
+        "price": 389.00,
+        "rating": 4.4,
+        "image": "img6.png"
+        
+        
+      },
+      {
+        "id": 7,
+        "name": "Asus 23,6 TUF Gaming VG24VQ",
+        "type": "kaareva 144Hz Full HD -pelimonitori",
+        "color": "musta",
+        "price": 199.00,
+        "rating": 4.8,
+        "image": "img7.png"
+        
+      },
+      {
+        "id": 8,
+        "name": "Acer 28 Nitro XV282K KV",
+        "type": "144Hz 4K UHD -pelimonitori",
+        "color": "musta",
+        "price": 769.00,
+        "rating": 4.9,
+        "image": "img8.png"
+       
+      }
+    ]
+  }

@@ -1,0 +1,22 @@
+.background{
+    padding: 20px;
+    background-color: #f7f3f3;
+    margin-top: 3px;
+    display: grid;
+    margin-left: 275px;
+    
+    
+}
+.header{
+    font-size: 32px;
+    font-weight: 900;
+}
+.main{
+    font-size: 26px;
+    font-weight: 700;
+    color:#00518d;
+}
+.topic{
+    font-size: 26px;
+    font-weight: 700;
+}
